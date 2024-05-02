@@ -1,0 +1,123 @@
+.about{
+    align-items: center;
+    justify-content: center;
+    padding : 20px 10%;
+    padding-bottom: 50px;
+}
+
+.teks-1{
+    text-align: center;
+    padding: 30px 10px;
+}
+
+.teks-1 h3{
+    font-size: 34px;
+}
+
+.teks-1 p{
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 14px;
+    color: #87909D;
+}
+
+.teks-1 p, .teks-1 h3{
+    padding-bottom: 15px;
+}
+
+.project-name1{
+    padding-bottom: 20px;
+}
+
+.project-name1, .project-name2 {
+    display: flex;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+.project-name1 h4, .project-name2 h4{
+    font-size: 24px;
+}
+
+.project-name1 p, .project-name2 p{
+    font-size: 14px;
+    max-width: 100%;
+    color: #87909D;
+}
+
+.btn-progress1 button{
+    font-weight: bold;
+    color: #000AFF;
+    background: #D0E6FF;
+}
+
+.btn-progress2 button{
+    font-weight: bold;
+    color: #2AB090;
+    background: #E0FFF8;
+}
+
+.btn-progress1 button, .btn-progress2 button{
+    padding: 4px 10px;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.view-project1, .view-project2{
+    padding-top: 10px;
+}
+
+.view-project1 button{
+    font-weight: bold;
+    font-size: 14;
+    color: #FFFFFF;
+    background: #000AFF;
+}
+
+.view-project2 button{
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #2AB090;
+}
+
+.view-project1 button, .view-project2 button{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.box-1{
+    padding: 10px 30px;
+}
+
+.box-1, .box-2{
+    display: block;
+}
+
+.box-1 h4, .box-1 p{
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+.box-2 h4, .box-2 p{
+    padding-top: 10px;
+    padding-right: 14px;
+}
+
+.project-name1 img,  .project-name2 img{
+    width: 445px;
+    height: 300px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}

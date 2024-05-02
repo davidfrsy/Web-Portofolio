@@ -1,0 +1,44 @@
+.contact{
+    align-items: center;
+    justify-content: center;
+    padding : 20px 16%;
+}
+
+.box1 {
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px -10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.kotak a{
+    text-decoration: none;
+    color: black;
+}
+
+.row1, .row2{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.row2 {
+    padding-bottom: 50px;
+}
+
+.col-1,.col-2{
+    display: flex;
+    align-items: center;
+    padding: 20px 120px;
+}
+
+.col-1 p, .col-2 p{
+    padding-left: 15px;
+}
+
+.contact img{
+    width: 60px;
+    height: 60px;
+}
